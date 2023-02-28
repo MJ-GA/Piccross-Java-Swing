@@ -6,7 +6,7 @@ import piccross.view.GameClientView;
 
 /**
  * The main driver class for the client program that creates the client controller
- * , client view, client model and starts the client view..
+ * , client view, client model and starts the client view.
  * 
  * @author Mohamed Jouini.
  *
